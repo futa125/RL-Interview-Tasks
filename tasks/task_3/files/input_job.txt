@@ -1,6 +1,0 @@
-Farmer 4321
-Engineer 1234
-Doctor 5432
-Driver 5431
-Lumberjack 11111
-Chef 12569
